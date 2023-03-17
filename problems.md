@@ -1,0 +1,3 @@
+     - Search in a sorted array of ints for an entry equal to its index (A[i] == i).
+     - Given an array with numbers, find the longest non decreasing subsequence.
+     - Find the least common ancestor of two nodes in a binary tree. Follow up: efficient solution if this is a BST with distinct keys.
